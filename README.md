@@ -9,7 +9,7 @@ This repo was made with love using GitKraken Client.
 
 개발 환경
 Intellij IDEA Ultimate 2021.1.
-Java 16
+Java 11
 Gradle 7.1.1
 Spring Boot 2.5.3
 기술 세부 스택
